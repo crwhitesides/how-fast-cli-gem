@@ -1,6 +1,6 @@
 # HowFast
 
-HowFast is a CLI gem to show you your current download speed. This gem uses the data provided by Netflix' [fast.com](https://fast.com). Thanks, Netflix. 
+HowFast is a simple CLI gem to show you your current **download** speed. This gem uses the data provided by Netflix' [fast.com](https://fast.com).
 
 ## Installation
 

@@ -6,11 +6,12 @@ require 'how_fast/version'
 Gem::Specification.new do |spec|
   spec.name          = "how_fast"
   spec.version       = HowFast::VERSION
+  spec.date          = "2016-05-25"
   spec.authors       = ["Christian Whitesides"]
   spec.email         = ["whitesidescr@gmail.com"]
 
-  spec.summary       = "HowFast is a CLI gem to show you your current download speed."
-  spec.homepage      = ["https://github.com/crwhitesides/how-fast-cli-gem"]
+  spec.summary       = "HowFast is a simple CLI gem to show you your current download speed."
+  spec.homepage      = "https://github.com/crwhitesides/how-fast-cli-gem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
