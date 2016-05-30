@@ -4,23 +4,11 @@ HowFast is a simple CLI gem to show you your current **download** speed. This ge
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'how_fast'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
     $ gem install how_fast
 
 ## Usage
 
-Once you've installed the gem...
+Run: ```how-fast`` after installing gem.
 
 ## Development
 
