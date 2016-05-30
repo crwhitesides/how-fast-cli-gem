@@ -8,7 +8,7 @@ HowFast is a simple CLI gem to show you your current **download** speed. This ge
 
 ## Usage
 
-Run: ```how-fast`` after installing gem.
+Run: ```how-fast``` after installing gem.
 
 ## Development
 
